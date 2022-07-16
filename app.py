@@ -15,7 +15,7 @@ common = {
 
 @app.route('/')
 def index():
-    return render_template('home.html', common=common)
+    return render_template('index.html', common=common)
 
 
 @app.route('/timeline')
