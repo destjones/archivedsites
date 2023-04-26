@@ -1,274 +1,76 @@
 {
   "projects": [
     {
-      "name": "Project 1",
+      "name": "iRecipes",
       "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
+      "date": "2021",
+      "short": "full stack express application",
       "status": "complete",
+      "url": "https://github.com/mpkahn/irecipes",
       "weight": 1,
       "tags": [
-        "tech"
+        "javascript, html"
       ],
       "photos": [
-        "/static/projects/project-1/img.jpg"
+        "/static/projects/project-1/img1.jpeg"
       ]
     },
     {
-      "name": "Project 2",
+      "name": "Weather Mood Tracks",
       "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
+      "date": "2021",
+      "short": "The perfect tracks for how it feels in the city you're in.",
+      "url": "https://github.com/destjones/Project-for-Random-Ozone-wheelers" ,
       "weight": 1,
       "tags": [
-        "media"
+        "javascript, html"
       ],
       "photos": [
-        "/static/projects/project-2/img.jpg"
+        "/static/projects/project-2/img2.png" 
       ]
     },
     {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 2,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
+      "name": "Bet On It",
+      "link": "project-3",
+      "date": "2021",
+      "short": "Sports betting app.",
+      "url": "https://github.com/destjones/Project3",
       "weight": 1,
       "tags": [
-        "media"
+        "javascript, html"
       ],
       "photos": [
-        "/static/projects/project-2/img.jpg"
+        "/static/projects/project-3/bet.png" 
       ]
     },
     {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
+      "name": "Employee Organizer",
+      "link": "project-4",
+      "date": "2021",
+      "short": "The easiest way to keep your employees profiles on hand.",
+      "url": "https://github.com/destjones/employee-organizer-10",
       "weight": 1,
       "tags": [
-        "tech"
+        "javascript, html"
       ],
       "photos": [
-        "/static/projects/project-1/img.jpg"
+        "/static/projects/project-4/project-4.png" 
       ]
     },
     {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 2,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 2,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
+      "name": "Password Generator",
+      "link": "project-5",
+      "date": "2021",
+      "short": "Application to generate passwords.",
+      "url": "https://github.com/destjones/passwordGenerator",
       "weight": 1,
       "tags": [
-        "media"
+        "javascript, html, css"
       ],
       "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 2,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 1,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 1,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 2,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 1,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 2,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 2,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 1,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 1,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 2,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 1",
-      "link": "project-1",
-      "date": "01/02/2003",
-      "short": "A short description of the project ...",
-      "status": "complete",
-      "weight": 2,
-      "tags": [
-        "tech"
-      ],
-      "photos": [
-        "/static/projects/project-1/img.jpg"
-      ]
-    },
-    {
-      "name": "Project 2",
-      "link": "project-2",
-      "date": "04/05/2006",
-      "short": "A short description of the project ...",
-      "weight": 1,
-      "tags": [
-        "media"
-      ],
-      "photos": [
-        "/static/projects/project-2/img.jpg"
+        "/static/projects/project-5/project-5.png" 
       ]
     }
   ]
-}
+  
+  }

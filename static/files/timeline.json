@@ -1,36 +1,31 @@
 [
   {
-    "year": "2018",
+    "year": "2017",
     "events": [
       {
         "icon": "work",
-        "title": "Spider-Verse",
-        "content": "New York City teenager Miles Morales struggles to live up to the expectations of his father, police officer Jefferson Davis, who sees Spider-Man as a menace. Miles adjusts to prep school, and visits his uncle Aaron, who takes him to an abandoned subway station to paint graffiti. Miles is bitten by a radioactive spider and gains spider-like abilities similar to Spider-Man."
+        "title": "Graduation",
+        "content": "After graduating from Imperial High School, I started my journey to adulthood. Got my first job and started my education at Imperial Valley College"
       }
     ]
   },
   {
-    "year": "2012-2014",
+    "year": "2018-2020",
     "events": [
       {
-        "icon": "movie",
-        "title": "The Amazing Spider-Man",
-        "content": "The film focuses on Peter Parker (Andrew Garfield) developing his abilities in high school and his relationship with Gwen Stacy (Emma Stone). He fights the Lizard, the monstrous form of Dr. Curt Connors (Rhys Ifans), his father's former partner and a scientist at Oscorp."
-      },
-      {
-        "icon": "movie",
-        "title": "The Amazing Spider-Man 2",
-        "content": "Confident in his powers as Spider-Man, Peter Parker (Andrew Garfield) embraces his new role as a hero and spends time with Gwen Stacy (Emma Stone) in between protecting New York from criminals. However, his greatest battle yet is about to begin. With the emergence of Electro (Jamie Foxx), Peter must confront an enemy far more powerful than he is. And when his old friend Harry Osborn (Dane DeHaan) returns, Peter comes to realize that all his enemies have one thing in common: Oscorp"
+        "icon": "work",
+        "title": "College Graduate",
+        "content": "I finished my associates in administration of justice. I realized it wasn't fulfilling. I decided to enroll in a web development bootcamp at UCSD extension. I learned how to code javascript, html, css, use react, bootstrap, some database like sql, mongodb. Assignments taught me to work with a team on deadlines to create full stack applications."
       }
     ]
-  },
+    },
   {
-    "year": "1977",
-    "events": [
+        "year": "2021-now",
+        "events": [
       {
-        "icon": "movie",
-        "title": "Spider-Man",
-        "content": "The first ever Spider-Man movie!"
+        "icon": "work",
+        "title": "The Present",
+        "content": "Currently trying to find myself in the tech world. I started to self teach myself python and currently reenrolled in college to get my associates in cyber security. I hope to potentially get a role in this field and I will continue to update this site with certifications and updated work."
       }
     ]
   }

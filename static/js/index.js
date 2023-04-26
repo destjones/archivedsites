@@ -2,12 +2,12 @@ $(function() {
   /* NOTE: hard-refresh the browser once you've updated this */
   $(".typed").typed({
     strings: [
-      "stat archivedsites<br/>" +
+      "cd briefcoolintro <br/>" +
       "><span class='caret'>$</span> Are you or your company looking for a new look?<br/> ^100" +
       "><span class='caret'>$</span> Well look no further.<br/> ^100" +
-      "><span class='caret'>$</span> I'm here to help you create your web presence.<br/> ^300" +
+      "><span class='caret'>$</span> I'm here to make change and moves in this industry.<br/> ^300" +
       "><span class='caret'>$</span> Let's stand out amongst billions in the cyber world and real world.<br/> ^300" +
-      "><span class='caret'>$</span> I'm Destiny Jones. Let's talk.<br/> ^300"
+      "><span class='caret'>$</span> I'm Destiny Jones. Let's talk tech.<br/> ^300"
     ],
     showCursor: true,
     cursorChar: '_',

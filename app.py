@@ -7,9 +7,9 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 common = {
-    'first_name': 'ARCHIVED',
-    'last_name': 'SITES',
-    'alias': 'by destiny jones'
+    'first_name': 'DESTINY',
+    'last_name': 'JONES',
+    'alias': 'student of Computer Science and Cyber Security'
 }
 
 

@@ -13,10 +13,8 @@
     <div class="wrapper fixed-wrapper">
         {% if 'photos' in project or 'videos' in project %}
         
-       <!--
         <div>
             <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false" ;>
-                <!-- Indicators 
                 <ol class="carousel-indicators">
                     {% for video in project['videos'] %}
                     <li data-target="#myCarousel" data-slide-to="loop.index0"
@@ -28,7 +26,6 @@
                     {% endfor %}
                 </ol>
 
-                <!-- Wrapper for slides 
                 <div class="carousel-inner">
                     {% for video in project['videos'] %}
                     <div class="item {{'active' if loop.index0 == 0}}">
@@ -41,8 +38,7 @@
                     </div>
                     {% endfor %}
                 </div>
-
-                <!-- Left and right controls 
+<!--Left and right controls -->
                 {% if ((project['videos'] | length) + (project['photos'] | length)) > 1 %}
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left"></span>
@@ -71,18 +67,13 @@
                 {% endfor %}
             </div>
 
-            <div class="links">
-                {% if 'github' in project %}
-                <div><a class="github" href={{project['github']}}>Find on Github</a></div>
-                {% elif 'arxiv' in project %}
-                <div><a class="github" href={{project['arxiv']}}>View on Arxiv</a></div>
-                {% elif 'playstore' in project %}
-                <div><a class="github" href={{project['playstore']}}>View on Google Play</a></div>
-                {% endif %}
-            </div>
+            <div class="md-chips">
+                {% for url in project['url'] %}
+                <div class="md-chip md-chip-clickable"><a class="md-chip-link" href="/project?url={{url}}">{{url}}"></a>
+                </div>
+                {% endfor %}
         </div>
         <div class="content">{{ project['description'] | safe }}</div>
     </div>
--->
 </div>
 {% endblock %}
